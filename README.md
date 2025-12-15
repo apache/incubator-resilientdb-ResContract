@@ -16,12 +16,16 @@
 # specific language governing permissions and limitations
 # under the License.
 ```
-**DEPRECATION NOTICE**
+---
+
+## DEPRECATION NOTICE
 
 This repository is deprecated.
 Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
 
 The ResContract CLI can be found at [ecosystem/smart-contract/rescontract](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/smart-contract/rescontract).
+
+---
 
 # ResContract CLI 🚀
 
